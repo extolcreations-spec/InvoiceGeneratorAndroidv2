@@ -1,0 +1,2 @@
+rootProject.name = "InvoiceGeneratorAndroid_v2"
+include(":app")
